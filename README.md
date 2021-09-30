@@ -1,1 +1,1 @@
-# Predict_customer_Will_Leave_the-Bank
+# Predicting whether the customer churns out of the bank or not
